@@ -1,0 +1,12 @@
+This is an very easy to use Ping-tester!
+It will only work on Windows 10 or Windows 8.
+By clicking on the file and running it the programm 
+will send packages to 1.1.1.1 so you can see the ping.
+The delay/Ping is locatet to the middle of the screen (CMD).
+
+
+
+Hope you like it. It´s my first real project!
+
+Credits ZockerKatze
+ 
